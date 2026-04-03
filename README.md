@@ -1,28 +1,46 @@
-<!-- 🌍 GitHub Profile README - Diego Emiliano Gervacio Negrete -->
+<div align="center">
 
-<h1 align="center">👋 Hi there, I'm Diego Emiliano Gervacio Negrete</h1>
+# ¡Hola! Soy Diego Emiliano 👋
 
-<p align="center">
-  <b>Software Engineer Jr. | Backend & Cloud Enthusiast | Learning Security & Systems Architecture</b><br>
-  <i>Building technology with purpose — connecting the digital world with the real one 🌎</i>
-</p>
+**Software Engineer Jr. | Backend & Cloud Enthusiast** 
 
----
-
-### 👨🏻‍💻 &nbsp;About Me
-
-👨‍💻 &nbsp;I’m a recent Software Engineering graduate passionate about learning, creating, and connecting technology with the real world.  
-💡 &nbsp;Currently, I’m exploring my specialization path within **Backend Development, Cloud Computing, and Security**.  
-🎓 &nbsp;I studied at the *Universidad Tecnológica del Suroeste de Guanajuato*, where I worked on projects that combined technology, sustainability, and impact.  
-🌱 &nbsp;I’m constantly improving my skills in **architecture, infrastructure, and system design**, with the goal of becoming a **Systems Architect** in the future.  
-🌍 &nbsp;I want to create technology with purpose — connecting digital knowledge with real-world challenges in fields like agriculture and construction. 
-
-📫 &nbsp;Reach me at [diegogemiliano@gmail.com](mailto:diegogemiliano@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/e-m-m-i-gnd).  
-📄 &nbsp;Check out my [Resume](link-to-cv) for more details about my projects and skills.
+Me dedico a construir tecnología con propósito, conectando el mundo digital con desafíos reales. Mi enfoque está en el diseño de sistemas robustos, la escalabilidad y la arquitectura de software.
 
 ---
 
+# 🚀 Mi Stack Tecnológico
+
+### Backend & Core
+<img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,django,laravel,php,js,nodejs" />
+
+### Infraestructura, Cloud & DB
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,firebase,supabase,postgres,mysql,mongodb" />
+
+### Herramientas & Otros
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+
+---
+</div>
+
+## 🛠️ En lo que me enfoco
+
+* **🏗️ Arquitectura de Sistemas:** Diseñando infraestructuras escalables.
+* **🌐 Backend & Cloud:** Construyendo la lógica y el motor de aplicaciones modernas.
+* **🌱 Impacto Real:** Tecnología aplicada a sectores como agricultura y sostenibilidad.
+* **🧪 Experimentación:** Testeo de nuevas herramientas en escenarios reales.
+
+---
+<div align="center">
+  
+### 🤝 Conectemos
+
+
+[![Portfolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=firefox&logoColor=FF9400)](https://byemmi.dev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/byemmidev/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegogemiliano@gmail.com)
+
+</div>
+
 <p align="center">
-  <i>“Building technology with purpose — connecting the digital world with the real one.”</i><br>
-  🌱 <i>Always learning, always creating.</i>
+  <i>"Building technology with purpose — Always learning, always creating."</i>
 </p>

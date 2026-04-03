@@ -31,7 +31,20 @@ Me dedico a construir tecnología con propósito, conectando el mundo digital co
 
 ---
 <div align="center">
-  
+
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=byemmidev&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=byemmidev&layout=compact&theme=tokyonight" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=byemmidev&theme=tokyonight" />
+</p>
+
+---
 ### 🤝 Conectemos
 
 
